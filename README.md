@@ -55,3 +55,4 @@ Hi, I’m **Mubeen Afzal** — a passionate full-stack engineer building things 
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mubeen-afzal-6a2828156/)  
 - 📧 mubeenafzal3@gmail.com
+- 🔗 mubeen.is-a.dev
